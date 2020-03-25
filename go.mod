@@ -1,4 +1,4 @@
-module blPool
+module github.com/baoliantech/blPool
 
 go 1.14
 
