@@ -1,4 +1,4 @@
-package myPool
+package blPool
 
 type Pool interface {
 	Close()
